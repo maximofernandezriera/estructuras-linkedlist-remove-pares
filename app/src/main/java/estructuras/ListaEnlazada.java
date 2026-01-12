@@ -1,6 +1,6 @@
 package estructuras;
 
-// Teniendo en cuenta esta estructura de datos de java:
+// Teniendo en cuenta esta estructura de datos de java: 
 
 // class Nodo {
 //     int dato;
